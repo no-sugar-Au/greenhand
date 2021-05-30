@@ -1,0 +1,171 @@
+div.big{
+    width: 1500px;
+    height: 400px;
+
+}
+div.first{
+    width: 1500px;
+    height: 35px;
+    background-color: #E2F2FA;
+}
+div.first p{
+    color: #2F7195;
+    display: inline-block;
+    margin: 0;
+    margin-top: 7.1px;
+    margin-left: 10px;
+}
+div.second{
+    width: 1500px;
+    height: 400px;
+    background-color: #F5F5F5;
+}
+div.third{
+    width: 1460px;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+div.fourth{
+    width: 1460px;
+    height: 35px;
+    position: relative;
+}
+div.fourth-1{
+    position: relative;
+    height: 35px;
+    width: 600px;
+}
+div.fourth-1 p{
+    color:#2F7195 ;
+    display: inline-block;
+    margin: 10px 0px 0px 5px;
+}
+form{
+    position: absolute;
+    top:10px;
+    left:600px;
+}
+input.text1{
+    width: 200px;
+    height: 23px;
+    border: 1px #2F7195 solid;
+    position: absolute;
+    top: 6px;
+    left: 70px;
+    outline: none;
+}
+div.fourth-2{
+    position: absolute;
+    width: 300px;
+    height: 35px;
+    top: 0;
+    left: 300px;
+}
+div.fourth-2-1{
+    position: relative;
+    width: 300px;
+    height: 35px;
+}
+input.text2{
+    width: 200px;
+    height: 23px;
+    border: 1px #2F7195 solid;
+    position: absolute;
+    top: 6px;
+    left: 55px;
+    outline: none;
+}
+div.fifth{
+    width: 1460px;
+    height: 35px;
+    position: relative;
+}
+div.fifth p{
+    margin: 0;
+    color: #2F7195;
+}
+input.text3{
+    width: 200px;
+    height: 23px;
+    border: 1px #2F7195 solid;
+    position: absolute;
+    top: 6px;
+    left: 70px;
+    outline: none;
+}
+div.fifth p:nth-child(1){
+    display: inline-block;
+    margin: 10px 0px 0px 5px;
+}
+div.fifth p:nth-child(3){
+    display: inline-block;
+    margin: 10px 0px 0px 5px;
+    position: absolute;
+    left: 300px;
+    top: 0;
+}
+div.sixth{
+    width: 1416px;
+    height: 224px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    border: 2px solid #E3E2DE;
+}
+div.sixth-1{
+    width: 1416px;
+    height: 20px;
+    background-color: #E3E2DE;
+}
+textarea.text4{
+    width: 1410px;
+    height: 200px;
+    outline: none;
+}
+div.confirm{
+    height: 35px;
+    width: 500px;
+    position: relative;
+}
+div.confirm p{
+    margin: 0;
+    color: #2F7195 ;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+input.text5{
+    width: 200px;
+    height: 23px;
+    border: 1px #2F7195 solid;
+    position: absolute;
+    top: 6px;
+    left: 110px;
+    outline: none;
+    word-break: break-all;
+}
+div.confirm img{
+    margin: 0;
+    position: absolute;
+    top: 10px;
+    left: 330px;
+}
+input.button1{
+    position: absolute;
+    left: 400px;
+    top: 8px;
+    outline: none;
+}
+div.close{
+    width: 1460px;
+    height: 35px;
+    background-color:#F5F5F5 ;
+}
+div.close a{
+    color: #0066CC;
+    display: inline-block;
+    margin-left: 698px;
+    margin-top: 7.1px;
+}
+
